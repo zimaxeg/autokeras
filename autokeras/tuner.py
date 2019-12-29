@@ -358,6 +358,7 @@ TUNER_CLASSES = {
     'text_regressor': Greedy,
     'structured_data_classifier': Greedy,
     'structured_data_regressor': Greedy,
+    'time_series_forecaster': Greedy,
 }
 
 
